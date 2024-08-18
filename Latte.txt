@@ -1,0 +1,6 @@
+Latte
+Ingredients: 1 shot of espresso, steamed milk, a small amount of frothed milk
+Recipe:
+Prepare a shot of espresso.
+Steam the milk and pour it over the espresso.
+Top with a small layer of frothed milk.

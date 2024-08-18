@@ -1,0 +1,6 @@
+Cappuccino
+Ingredients: 1 shot of espresso, steamed milk, frothed milk
+Recipe:
+Prepare a shot of espresso.
+Steam and froth milk.
+Pour the steamed milk over the espresso, followed by a layer of frothed milk.
